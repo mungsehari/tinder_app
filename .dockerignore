@@ -1,0 +1,7 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/maven-wrapper.jar.sha1
+!.mvn/wrapper/maven-wrapper.jar.asc
+!.mvn/wrapper/maven-wrapper.jar.asc.sha1
+!.mvn/wrapper/maven-wrapper.properties.sha1
